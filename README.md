@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there! I'm softwaredevaki and this is my GitHub profile.
+I have experience in the following languages / technologies
+- C / C++
+- Python
+- HTML / CSS / JavaScript
+- MySQL
+- Godot / GDScript
+- Windows and Linux
 
 <!--
 **softwaredevaki/softwaredevaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
